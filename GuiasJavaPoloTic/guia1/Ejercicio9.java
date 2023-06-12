@@ -16,6 +16,7 @@ public class Ejercicio9 {
         double pesos = leer.nextDouble();
         
         //Conversión de moneda
+        // La fórmula para convertir a guaraníes está mal
         double dolares= pesos/231.68;
         double euros =pesos/250.69;
         double guaranies =pesos/31;

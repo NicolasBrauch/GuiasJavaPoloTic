@@ -4,6 +4,8 @@ Calcular y mostrar por pantalla el área y el perímetro.*/
 package guia1;
 
 import java.util.Scanner;
+
+// No es necesario importar la clase Math
 import java.lang.Math;
 public class Ejercicio5 {
 

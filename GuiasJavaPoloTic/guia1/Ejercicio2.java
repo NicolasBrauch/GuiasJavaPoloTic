@@ -12,7 +12,7 @@ public class Ejercicio2 {
         System.out.println("Escribe tu nombre: ");
         Scanner leer = new Scanner(System.in);
         String nombre_usuario=leer.next();
-        System.out.println("Hola," + nombre_usuario);
+        System.out.println("Hola, " + nombre_usuario);
         
         
     }
